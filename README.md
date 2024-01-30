@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumit0072/Car-Price-Prediction-Project?color=red&style=plastic)
 
 
-<h1>Car Dekho Price Prediction</h1>
+<h1>Car Resale Price Prediction</h1>
 
 <h2>Table of contents</h2>
 
@@ -25,9 +25,7 @@
 <h3>Objective</h3><a id="1"></a>
 <p>In this project, the objective is to predict Car Selling Price on various features like Car's Present_Price, Kms_Driven, Owner, Fuel_Type, Seller_Type, Transmission. We will use the CAR DEKHO dataset from Kaggle. This dataset contains information about used cars listed on <a href='www.cardekho.com'><u>website</u></a></p>
 
-<h3>Quick Demo</h3><a id="2"></a>
 
-![demo_gif](https://github.com/sumit0072/Car-Price-Prediction-Project/blob/main/demo.gif)
 
 <br><p>We can predict Car Selling Price by filling the data over UI and after that prediction will be displayed over UI.</p>
 
